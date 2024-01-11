@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+
 int flag = 0;
 void searchEle(int arr[], int n, int size)
 {
